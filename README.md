@@ -1,3 +1,5 @@
+#!!!!!! Outil en cours de développement !!!!!!
+
 # OSINT Timeline (PROJET ABANDONNE TEMPORAIREMENT)
 
 Outil de collecte et de visualisation d'une timeline d'activités publiques depuis des sources OSINT.
